@@ -1,0 +1,22 @@
+---
+title: "Jean-Nicolas Bordeleau"
+image: ""
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:nick.bordeleau@flinders.edu.au
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/nickbordeleau
+    - icon: github
+      text: Github
+      href: https://github.com/nickbordeleau
+---
+I am a Research Fellow at the Jeff Bleich Centre, Flinders University. 
+
+My research interests fall at the intersection of political psychology and democracy, with a particular focus on the role of citizens in democratic stability. This includes understanding why some citizens tolerate democratic backsliding, explaining mass support for undemocratic politics, and making sense of political misinformation. 
+
+I seek answers to these puzzles primarily through quantitative research methods, with an emphasis on experimental approaches, longitudinal data, and cross-national comparative analyses.
+---
