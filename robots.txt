@@ -1,1 +1,1 @@
-Sitemap: https://nickbordeleau.github.io/sitemap.xml
+Sitemap: https://nickbordeleau.com/sitemap.xml
